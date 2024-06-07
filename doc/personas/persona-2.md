@@ -21,3 +21,18 @@ E1: O celular, porque é amplamente valorizado por sua portabilidade, permitindo
 
 E2: O notebook, porque utiliza o notebook com pouca frequência devido à sua dificuldade em manuseá-lo, embora ele o utilize quando necessário.
 
+E3: celular e notebook
+
+E4: pesquisando, lendo manuais e assistindo videos no youtube
+
+E5: passo a passo 
+
+E6: lendo texto e vendo imagens
+
+E7: compartilhamento de acontecimentos 
+## solucoes existentes
+S1: sim, facebook, ajuda pois no facebook e uma rede social onde os usuarios compartilham fotos, tem uma opçao para fazer um memorial.
+
+S2: apos publicar uma publicaçao ao decorrer dos anos aparece uma opçao de republicar uma postagem antiga. 
+
+S3: apos publicar uma publicaçao ao decorrer dos anos aparece uma opçao de republicar uma postagem antiga, o lado negativo que nao pode editar nada na foto, nao pode colocar uma legenda e nem musica, apenas republicar.
