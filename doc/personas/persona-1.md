@@ -30,14 +30,13 @@ E6: Lembra das coisas vendo imagem e lendo texto.
 E7: Gosta interação social e compatilhamento de acontecimento para familia e amigos.
 
 ## **Problemas**
-P1: Não gosta de ficar desenformado sobre os acontecimentos que acontece na minha familia.
+P1: Não gosta de ficar mal informado sobre os acontecimentos que acontece na minha familia. Ele sente a necessidade de compartilhar seus textos sobre um falecido proximo.
 
-P2: Receber noficaçao se algo acontecer com algum ente querido.
+P2: Publicar diversos tipos de texto e mandar para os familiares.
 
 ## **Soluções existente**
 S1: Pelo que ele saiba só o Facebook.
 
-S2: Que ele notificar o falecimento do ente querido.
+S2: Ele ver as lembranças ente querido, pois gosta de lembrar dos bons momentos.
 
-S3: Que demora um pouco para receber a noticia do falecimento da pessoa, pois precisaria que alguém da familia acesse a conta do falecido
-para constatar sua morte.
+S3: É meio complicando procurar as funcões para transforma a página da conta do falecidos em lembranças, pois demora de mais para encontrar.
