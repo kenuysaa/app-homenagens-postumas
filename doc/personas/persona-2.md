@@ -13,4 +13,4 @@
 ## Experiências com tecnologias
 ### E1: O celular, porque é amplamente valorizado por sua portabilidade, permitindo que seja facilmente transportado para qualquer lugar devido ao seu tamanho compacto.
 ### E2: O notebook, porque utiliza o notebook com pouca frequência devido à sua dificuldade em manuseá-lo, embora ele o utilize quando necessário.
-### 
+
