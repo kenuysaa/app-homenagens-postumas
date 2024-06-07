@@ -14,7 +14,7 @@ Q4: De perde membros amados da minha familia, pois tenho receio lidar com o sofr
 ## **Contexto**
 C1: Mobile e desktop, uso aplicativo de escrita para escrever meus livros que são Scrivener e Storyist.
 
-## **Experiência com a tecnologia
+## **Experiência com a tecnologia**
 E1: Storyist ele é mais simples e flexivel.
 
 E2: Scrivenner uso porém tenho dificuldade de usar as ferramentas.
