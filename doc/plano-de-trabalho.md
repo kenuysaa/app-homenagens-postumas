@@ -5,7 +5,7 @@
 |Nome do Projeto:|Aplicativo de Homenagens Postumas|
 |Versão:|1.0|
 |Status:|Em desenvolvimento|
-|Executor Principal:||
+|Executor Principal:|Guilherme Kenuy Saaveedra Nunes|
 |Coordenador Principal:|Andrey Rodrigues|
 ---
 # HISTÓRICO DE VERSÕES
