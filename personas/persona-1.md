@@ -31,6 +31,7 @@ E7: Gosta interação social e compatilhamento de acontecimento para familia e a
 
 ## **Problemas**
 P1: Não gosta de ficar desenformado sobre os acontecimentos que acontece na minha familia.
+
 P2: Receber noficaçao se algo acontecer com algum ente querido.
 
 ## **Soluções existente**
