@@ -15,7 +15,7 @@
 ---
 # 1. INTRODUÇÃO
 ## 1.1 Objeto
-Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoal falecida para compartilharem os sentimos e lembranças postumas.
+Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa falecida para compartilharem os sentimentos e lembranças póstumas.
 
 ## 1.2 Motivação, Justificativa e Oportunidade
 - **Motivação:** Um sistema próprio para salvar e agrupar lembranças e arquivos sobre a pessoa falecida.
