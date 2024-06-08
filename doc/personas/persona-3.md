@@ -17,7 +17,7 @@ C1: na faculdade utilizo o desktop para o estudo de pesquisas e o mobile para fi
 ## **Experiência com a tecnologia**
 E1: Aplicativo OneNote para fazer as anotações das aulas e Word para entras de trabalhos, Google academico. 
 
-E2: OneNote não gosto porque tenho dificuldades em mexer nas feramentas e tenho que inserir as informções dentro de uma caixa.
+E2: OneNote não gosto porque tenho dificuldades em mexer nas feramentas e tenho que inserir as informações dentro de uma caixa.
 
 E3: Utilizo mais no notebook.
 
