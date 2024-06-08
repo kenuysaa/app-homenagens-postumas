@@ -22,9 +22,9 @@
 Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa falecida para compartilharem os sentimentos e lembranças póstumas.
 
 ## 1.2 Motivação, Justificativa e Oportunidade
-- **Motivação:** Um sistema próprio para salvar e agrupar lembranças e arquivos sobre a pessoa falecida.
+- **Motivação:** Apesar de outras redes sociais terem uma função para tornar o perfil de uma pessoa falecida em um memorial, o sistema em desenvolvimento será focado para tal função porém com o perfil do falecido disponível apenas para as pessoas relacionadas ao individuo.
 - **Justificativa:** O acolhimento que entre os familiares e amigos, e o compartilhamento de momentos em midia que um ou outro não o teriam acesso.
-- **Oportunidade:** Apesar de outras redes sociais terem uma função para tornar o perfil de uma pessoa em um memorial, o sistema em desenvolvimento será focado para tal função porém com o perfil do falecido disponível apenas para as pessoas relacionadas ao individuo.
+- **Oportunidade:** Uma aplicação para compartilhar, salvar e agrupar lembranças entre os usuarios.
 
 ## 1.3 Caracterização do Projeto
 ### 1.3.1 Classe
@@ -56,11 +56,18 @@ Desenvolver um aplicativo de homenagens póstumas dedicado a preservar e compart
 ### Ferramentas e Tecnologias
 |Tipo|Modelo e Especificações|
 |----|-----------------------|
-||
+|Plataforma de Design|Figma|
+|IDE|VS code e Android Studio|
+|Linguagem de Programação|JavaScript, Python e Kotlin|
 
 ## 2.4 Características Inovadoras do Projeto
+- Visualização como um mural de publicações.
+- Reconhecimento de publicações com o mesmo contexto através de um algoritmo inteligente, identificando data do acontecimento e palavras-chave.
+- Republicação de momentos a partir da data especificada ou data de postagem.
 
 ## 2.5 Resultados Esperados
+- Armazenamento de informações do usuário e mídia com alta segurança.
+- Feedback positivo dos usuários em relação a usabilidade do aplicativo em desktop e mobile.
 
 # 3 METODOLOGIA DE PROJETO
 ## 3.1 Estrutura do Projeto
