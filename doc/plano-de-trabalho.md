@@ -44,6 +44,7 @@ Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa
 
 # 2 INFORMAÇÕES GERAIS
 ## 2.1 Objetivo
+Desenvolver um aplicativo de homenagens póstumas dedicado a preservar e compartilhar memórias de entes queridos falecidos, oferecendo um ambiente onde amigos e familiares possam se reunir virtualmente para prestar homenagens, compartilhar histórias, fotos, vídeos e recordar os momentos especiais vividos com a pessoa falecida.
 
 ## 2.2 Escopo geral
 
