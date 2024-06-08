@@ -30,7 +30,7 @@ Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa
 ### 1.3.1 Classe
 |Classe|Detalhamento|
 |------|------------|
-|Aplicativo WEB|Aplicativo desenvolvido para navegadores disponivel em versão descktop e mobile, com funcionalidade de publicação de texto, imagens e vídeos.|
+|Aplicativo Móvel e Web|Aplicativo desenvolvido para navegadores disponivel em versão descktop e mobile, com funcionalidade de publicação de texto, imagens e vídeos.|
 
 ### 1.3.2 Enquadrabilidade
 |Enquadrabilidade|Detalhamento|
