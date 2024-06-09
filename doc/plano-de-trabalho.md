@@ -35,7 +35,7 @@ Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa
 ### 1.3.2 Enquadrabilidade
 |Enquadrabilidade|Detalhamento|
 |--------|-----------|
-|Aplicativo de Homenagens Póstumas|Cumpre as regulamentações de proteção de dados pessoais, privacidade, acessibilidade digital e práticas culturais e éticas. |
+|Aplicativo Social|Cumpre as regulamentações de proteção de dados pessoais, privacidade, acessibilidade digital e práticas culturais e éticas. |
 
 ### 1.3.3 Tipo
 |Tipo||Detalhamento|
