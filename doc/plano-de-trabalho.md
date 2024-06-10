@@ -96,7 +96,7 @@ O aplicativo contará com publicações entre os usuários em uma página princi
 |Desenvolvedor Front-End|Laís Samily Xavier de Sousa|
 |Desenvolvedor Back-End|Manoele Braga Colares da Costa|
 |Designer de UX/UI|Maria Vitória Brasil Campos|
-|Tester|João Vitor de Oliveira Simões|
+|Testador de Software|João Vitor de Oliveira Simões|
 
 ## 3.3 Fases, Atividades e Cronograma
 - **Fase I: Especificação – Janeiro/Fevereiro:**
