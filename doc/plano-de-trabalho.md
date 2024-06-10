@@ -12,7 +12,7 @@
 # HISTÓRICO DE VERSÕES
 |Versão|Descrição|Autor|Data|
 |------|---------|-----|----|
-|1.0|Elaboração do Plano de Trabalho|Guilherme Kenuy Saavedra Nunes|31/05/2024|
+|1.0|Elaboração do Plano de Trabalho|Guilherme Kenuy Saavedra Nunes|10/06/2024|
 
 ---
 
