@@ -21,9 +21,9 @@
 Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa falecida para compartilharem os sentimentos e lembranças através de publicações textuais, de imagens e vídeos.
 
 ## 1.2 Motivação, Justificativa e Oportunidade
-- **Motivação:** Apesar de outras redes sociais terem uma função para tornar o perfil de uma pessoa falecida em um memorial, o projeto em desenvolvimento será focado para tal função, porém com a página do falecido disponível apenas para as pessoas selecionadas.
-- **Justificativa:** O acolhimento entre os familiares e amigos, e o compartilhamento de momentos em mídia que um ou outro não o teriam acesso
-- **Oportunidade:** Uma aplicação para compartilhar, salvar e agrupar lembranças entre os usuários.
+**Motivação:** Apesar de outras redes sociais terem uma função para tornar o perfil de uma pessoa falecida em um memorial, o projeto em desenvolvimento será focado para tal função, porém com a página do falecido disponível apenas para as pessoas selecionadas.  
+**Justificativa:** O acolhimento entre os familiares e amigos, e o compartilhamento de momentos em mídia que um ou outro não o teriam acesso.  
+**Oportunidade:** Uma aplicação para compartilhar, salvar e agrupar lembranças entre os usuários.  
 
 ## 1.3 Caracterização do Projeto
 ### 1.3.1 Classe
@@ -37,9 +37,9 @@ Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa
 |Aplicativo Social|Cumpre as regulamentações de proteção de dados pessoais, privacidade, acessibilidade digital e práticas culturais e éticas.|
 
 ### 1.3.3 Tipo
-|Tipo||Detalhamento|
-|----|-|------------|
-|Desenvolvimento|Software||
+|Tipo|Detalhamento|
+|------|----------|
+|Desenvolvimento de Software|Criação de um produto de software com sistema de banco de dados em nuvem, com interface focada na experiência do usuário e sistema de privacidade.|
 
 # 2 INFORMAÇÕES GERAIS
 ## 2.1 Objetivo
@@ -70,7 +70,7 @@ O aplicativo contará com publicações entre os usuários em uma página princi
 |----|-----------------------|
 |Plataforma de repositório e versionamento|GitHub|
 |Plataforma de Design|Figma|
-|IDE|VS code e Android Studio|
+|Ambiente de Desenvolvimento Integrado - IDE|VS code e Android Studio|
 |Linguagem de Programação|Kotlin e Python|
 
 ## 2.4 Características Inovadoras do Projeto
@@ -101,13 +101,15 @@ O aplicativo contará com publicações entre os usuários em uma página princi
 ## 3.3 Fases, Atividades e Cronograma
 - **Fase I: Especificação – Janeiro/Fevereiro:**
   - Planejamento inicial.
+  - Levantamento de requisitos do sistema.
   - Desenvolvimento de Personas.
   - Trabalhar histórias do usuário e seus critérios de aceitação e regras de negócios.
-  - Levantamento de requisitos do sistema.
 
 - **Fase II: Inspeção – Março/Abril:**
+  - Revisão dos requisitos do sistema.
 
 - **Fase III: Projeto e Arquitetura – Maio/Junho:**
+  - Design da arquitetura do sistema através de diagramas dinâmicos e estáticos.
 
 - **Fase IV: Prototipagem e Refinamento – Julho:**
 
@@ -118,7 +120,7 @@ O aplicativo contará com publicações entre os usuários em uma página princi
 ## 3.4 Entregas de cada Fase
 |Fase|Mês|Entregável|
 |-|-|-|
-|I. Especificação |||
+|I. Especificação |Janeiro/Fevereiro|Personas, Histórias do Usuários e Requisitos do sistema.|
 |II. Inspeção|||
 |III. Projeto e Arquitetura|||
 |IV. Prototipagem e Refinamento|||
