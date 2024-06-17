@@ -1,4 +1,4 @@
-**NOME: Karen Mesquita**
+**NOME: Karen Mesquita**  
 **IDADE: 23 anos**
 ## QUEM
 Karen Mesquita é uma estudante universitária de Direito, se descreve como muito determinada, proativa e gosta de liderar. Uma de suas frustrações e medo é de não ser boa o suficiente nas coisas que ela faz e que deseja possuir, porque ela quer dar muito orgulho à sua falecida mãe.
