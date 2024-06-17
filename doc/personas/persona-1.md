@@ -1,4 +1,4 @@
-**NOME: Pietro**
+**NOME: Pietro**  
 **IDADE: 32 anos**
 ## QUEM
 Pietro é um escritor, possui graduação em letras, e se descreve proativo, apegado a familia e gosta de viajar. Uma das suas principais preocupações é de perder membros amados de sua família, pois tem receio de lidar com o sofrimento do luto.
