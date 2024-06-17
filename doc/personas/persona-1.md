@@ -3,7 +3,7 @@
 ## QUEM
 Pietro é um escritor, possui graduação em letras, e se descreve proativo, apegado a familia e gosta de viajar. Uma das suas principais preocupações é de perder membros amados de sua família, pois tem receio de lidar com o sofrimento do luto.
 ## CONTEXTO
-**Quais tarefas da sua rotina ele, realiza utilizando aplicações?**  
+**Quais tarefas da sua rotina ele realiza utilizando aplicações?**  
 Geralmente ele usa Storyist e Scrivenner para escrever seus livros.
 ## EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
 | Pergunta | Resposta |
