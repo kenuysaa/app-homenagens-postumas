@@ -1,28 +1,31 @@
-**NOME: Pietro**  
-**IDADE: 32 anos**
+**NOME: Isadora**  
+**IDADE: 30 anos**
 ## QUEM
-Pietro é um escritor, possui graduação em letras, e se descreve proativo, apegado a familia e gosta de viajar. Uma das suas principais preocupações é de perder membros amados de sua família, pois tem receio de lidar com o sofrimento do luto.
+Isadora se descreve com uma pessoa intensa, com determinação e justifica que tem apenas 6 meses de vida. É formada em Psicologia, mas atualmente está desempregada. Ela tem medo de perder momentos com os familiares e amigos, porque ela quer deixar lembranças e espera que as pessoas que ama respirem por ela o que não pôde respirar, vivam por ela o que não pôde viver e amem o que ela não pôde amar.
+
 ## CONTEXTO
 **Quais tarefas da sua rotina ele realiza utilizando aplicações?**  
-Geralmente ele usa Storyist e Scrivenner para escrever seus livros.
+Ela utiliza o Instagram principalmente para compartilhar sua rotina nos stories, além comentar sobre séries e filmes no Twitter.
+
 ## EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
 | Pergunta | Resposta |
 | -------- | -------- |
-| E1. Quais partes das aplicações citadas no Contexto ele gosta? Por quê?|Storyist, ele utiliza com mais frequência e acha simples e flexivel.|
-| E2. Quais partes dessas aplicações ele não gosta? Por quê?|Scrivenner, ele tem muita dificuldade de usar as ferramentas.|
-| E3. Em quais dispositivos ele utiliza essas aplicações?|Utiliza nas versões Mobile e desktop, notebook para escrever seus livros e o celular para visualizar suas mídias sociais.|
-| E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo manuais, mexendo na aplicação)?|Ele aprende pesquisando, assistindo tutoriais no YOUTUBE ou mexendo na ferramenta.|
-| E5. Ele gosta de fazer as coisa passo a passo ou prefere atalhos?|Prefere atalhos.|
-| E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?|Ele prefere ver imagens e lendo textos, pois ajuda memorizar.|
-| E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?|Ele gosta de interação social e compartilhamento de acontecimentos para familiares e amigos.|
+| E1. Quais partes das aplicações citadas no Contexto ele gosta? Por quê?| No Instagram além de compartilhar nos Stories ela gosta da função de destaque, que junta e organiza esses momentos fixando no perfil. Ela também gosta do design em "grade" em que as publicações no perfil são organizadas, porque acha que esse design pode ser usado de diversas maneiras como montar uma imagem com 9 publicações, tipo um quebra-cabeça.|
+| E2. Quais partes dessas aplicações ele não gosta? Por quê?| Ela não gosta das publicações em video do Instagram ocuparem grande parte do espaço da tela porque acha desnecessario e da falta de organização.|
+| E3. Em quais dispositivos ele utiliza essas aplicações?|Ela usa esses aplicativos no Celular.|
+| E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo manuais, mexendo na aplicação)?|Mexendo na aplicação e perguntando a outras pessoas.|
+| E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?|Lendo texto.|
+| E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?|Interação social sem duvida, ama compartilhar os momentos com as pessoas que ama.|
+
 ## PROBLEMAS/NECESSIDADES/DESEJOS
 | Pergunta | Resposta |
 | -------- | -------- |
-| P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidas pela aplicação a ser projetada?|Não gosta de ficar mal-informado sobre os acontecimentos que acontece em sua família. Ele sente a necessidade de compartilhar seus textos sobre um falecido próximo.|
-| P2. O que a aplicação a ser projetada pode ter para ajudar ele a resolver estes problemas?|O sistema a ser projetado pode tornar mais fácil para amigos e familiares espalhados pelo mundo compartilhar memórias e homenagens.|
+| P1. Quais problemas ela enfrenta na sua rotina que podem ser resolvidas pela aplicação a ser projetada?|Ela prefere uma rede social que tenha um espaço focado em compartilhar seus ultimos momentos e sua personalidade.|
+| P2. O que a aplicação a ser projetada pode ter para ajudar ele a resolver estes problemas?|A aplicação poderá criar uma pagina para preservar sua imagem e lembranças, além de permitir o compartilhamento entre seus familiares e amigos.|
+
 ## SOLUÇÕES EXISTENTES
 | Pergunta | Resposta |
 | -------- | -------- |
-| S1. Existem outras tecnologias que resolvem os problemas (ou parte deles) citados? Quais? De que forma estas tecnologias ajudam?|Sim, Facebook, pois na plataforma existe uma opção de fazer um memorial.|
-| S2. Quais características positivas/essenciais dessas tecnologias?|A funcionalidade de postar fotos, Ele gosta de ver as lembranças dos seus entes queridos.|
-| S3. Quais características negativas/dispensáveis dessa tecnologia?|É complicando procurar as funções para transformar a página da conta dos falecidos em lembranças, pois a opção não é visivel.|
+| S1. Existem outras tecnologias que resolvem os problemas (ou parte deles) citados? Quais? De que forma estas tecnologias ajudam?|Sim, o Facebook. Há um area para transformar o perfel em um memorial.|
+| S2. Quais características positivas/essenciais dessas tecnologias?|A preservação de postagem e acesso do perfil a um responsavel proximo do falecido.|
+| S3. Quais características negativas/dispensáveis dessa tecnologia?|A demora para liberar o perfil para o memorial.|
