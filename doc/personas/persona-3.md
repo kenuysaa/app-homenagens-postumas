@@ -2,15 +2,17 @@
 **IDADE: 23 anos**
 ## QUEM
 Karen Mesquita é uma estudante universitária de Direito, se descreve como muito determinada, proativa e gosta de liderar. Uma de suas frustrações e medo é de não ser boa o suficiente nas coisas que ela faz e que deseja possuir, porque ela quer dar muito orgulho à sua falecida mãe.
+
 ## CONTEXTO
 **Quais tarefas da sua rotina ela realiza utilizando aplicações?**  
-Geralmente ela utiliza na faculdade o desktop para o estudo de pesquisas e o mobile para ficar atenta às notícias, ver as fotos de sua mãe e antes de sua mãe morrer costumava jogar vários jogos com sua mãe.
+Geralmente ela utiliza o OneNote na faculdade para anotações de estudo e pesquisa, além de utilizar o Google Fotos para ver as fotos de sua falecida mãe.
+
 ## EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
 | Pergunta | Resposta |
 | -------- | -------- |
-| E1. Quais partes das aplicações citadas no Contexto ela gosta? Por quê?|Aplicativo OneNote para fazer as anotações das aulas e Word para entregas de trabalhos e Google acadêmico.|
-| E2. Quais partes dessas aplicações ela não gosta? Por quê?|OneNote, ela não gosta porque tem muitas dificuldades em utilizar as feramentas e tem que inserir as informações dentro de uma caixa.|
-| E3. Em quais dispositivos ele utiliza essas aplicações?|Utiliza mais no notebook.|
+| E1. Quais partes das aplicações citadas no Contexto ela gosta? Por quê?|Ela gosta do Google Fotos por que pode acessar qualquer midia de qualquer dispositivo somente logando sua Conta do google. Tambem gosta da sincronização de anotações do OneNote em diferentes dispositivos.|
+| E2. Quais partes dessas aplicações ela não gosta? Por quê?|Realziar anotações no OneNote, porque tem muitas dificuldades em utilizar as feramentas e tem que inserir as informações dentro de uma caixa.|
+| E3. Em quais dispositivos ele utiliza essas aplicações?|Utiliza no Notebook e Celular.|
 | E4. Como ela aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo manuais, mexendo na aplicação)?|Mexendo nas aplicações, lendo os manuais e pesquisando.|
 | E5. Ela gosta de fazer as coisa passo a passo ou prefere atalhos?|Ela prefere atalhos.|
 | E6. Ela lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?|Vendo imagens, apresentações gráficas e lendo textos.|
