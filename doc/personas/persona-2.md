@@ -5,11 +5,12 @@ Antônio é um ex-professor do ensino médio que ainda ministra aulas particular
 ## CONTEXTO
 **Quais tarefas da sua rotina ele realiza utilizando aplicações?**  
 Ele utiliza Celular para visualizar o WhatsApp, facebook e Youtube (mobile), Notebook para acessar planos de trabalho Word e power point(web).
+
 ## EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
 | Pergunta | Resposta |
 | -------- | -------- |
-| E1. Quais partes das aplicações citadas no Contexto ele gosta? Por quê?|O celular, porque pode ser transportado e utilizado em qualquer lugar devido ao seu tamanho compacto.|
-| E2. Quais partes dessas aplicações ele não gosta? Por quê?|O notebook, porque utiliza o notebook com pouca frequência devido à sua dificuldade em manuseá-lo, embora ele o utilize quando necessário.|
+| E1. Quais partes das aplicações citadas no Contexto ele gosta? Por quê?|Gosta das paginas do Facebook e como são organizadas, porque são bastante diversas com varias funcionalidades.|
+| E2. Quais partes dessas aplicações ele não gosta? Por quê?|Ele não gostas da adição de "Stories" no Facebook e no Youtube, ele acha que desnecessario e sem criatividade por ja exitir esse tipo de função em outras redes.|
 | E3. Em quais dispositivos ele utiliza essas aplicações?|Celular e notebook.|
 | E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo manuais, mexendo na aplicação)?|Pesquisando, lendo manuais e assistindo vídeos no Youtube.|
 | E5. Ele gosta de fazer as coisa passo a passo ou prefere atalhos?|Ele prefere fazer as coisas passo a passo.|
