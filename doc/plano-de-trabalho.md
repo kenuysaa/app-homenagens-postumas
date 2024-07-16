@@ -2,8 +2,8 @@
 
 | Nome do Projeto:       | Aplicativo de Homenagens Póstumas |
 | ---------------------- | --------------------------------- |
-| Versão:                | 1.2                               |
-| Status:                | Inspeção                          |
+| Versão:                | 1.5                               |
+| Status:                | Projeto e Arquitetura             |
 | Executor Principal:    | Guilherme Kenuy Saavedra Nunes    |
 | Coordenador Principal: | Andrey Rodrigues                  |
 
@@ -14,6 +14,7 @@
 | ------ | -------------------------------------- | ------------------------------ | ---------- |
 | 1.0    | Elaboração do Plano de Trabalho        | Guilherme Kenuy Saavedra Nunes | 10/06/2024 |
 | 1.2    | Melhorias e Mudanças de Funcionalidade | Guilherme Kenuy Saavedra Nunes | 13/07/2024 |
+| 1.5    | Arquitetura do Sistema                 | Guilherme Kenuy Saavedra Nunes | 16/07/2024 |
 
 ---
 
@@ -63,18 +64,16 @@ O aplicativo contará com publicações principalmente entre usuários na págin
 ### 2.2.2 Escopo Negativo
 - O aplicativo não terá financiamento através de anúncios.
 - O sistema não incluirá funcionalidades de gamificação para incentivar o uso do aplicativo.
-- Não haverá uma versão web do aplicativo neste estágio inicial.
-- Não haverá uma funcionalidade de "linha do tempo" nesse estágio do software.
 - Não será desenvolvida uma funcionalidade de chat ou mensagens instantâneas entre usuários nesse estágio inicial.
 
 ## 2.3 Ambiente de Desenvolvimento
 ### Ferramentas e Tecnologias
-|Tipo|Modelo e Especificações|
-|----|-----------------------|
-|Plataforma de repositório e versionamento|GitHub|
-|Plataforma de Design|Figma|
-|Ambiente de Desenvolvimento Integrado - IDE|VS code e Android Studio|
-|Linguagem de Programação|Kotlin e Python|
+| Tipo                                        | Modelo e Especificações     |
+| ------------------------------------------- | --------------------------- |
+| Plataforma de repositório e versionamento   | GitHub                      |
+| Plataforma de Design                        | Figma                       |
+| Ambiente de Desenvolvimento Integrado - IDE | VS code e Android Studio    |
+| Linguagem de Programação                    | Kotlin, Python e JavaScript |
 
 ## 2.4 Características Inovadoras do Projeto
 - O aplicativo permite tornar perfis individuais e suas publicações em paginas de memorial com responsáveis escolhidos pelo mesmo antes de falecer.  
@@ -122,13 +121,13 @@ O aplicativo contará com publicações principalmente entre usuários na págin
 - **Fase VI: Encerramento – Setembro**
 
 ## 3.4 Entregas de cada Fase
-| Fase                           | Mês               | Entregável                                                                                      |
-| ------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------- |
-| I. Especificação               | Janeiro/Fevereiro | Personas, Histórias do Usuários e Requisitos do sistema.                                        |
-| II. Inspeção                   | Março/Abril       | Analise e resolução de defeitos apontados na Inspeção. Mudanças e Melhorias de Funcionalidades. |
-| III. Projeto e Arquitetura     |                   |                                                                                                 |
-| IV. Prototipagem e Refinamento |                   |                                                                                                 |
-| V. Encerramento                |                   |                                                                                                 |
+| Fase                           | Mês               | Entregável                                                                            |
+| ------------------------------ | ----------------- | ------------------------------------------------------------------------------------- |
+| I. Especificação               | Janeiro/Fevereiro | Personas, Histórias do Usuários e Requisitos do sistema.                              |
+| II. Inspeção                   | Março/Abril       | Resolução de defeitos apontados na Inspeção. Mudanças e Melhorias de Funcionalidades. |
+| III. Projeto e Arquitetura     | Maio/Junho        | Diagramas de Classes, Diagrama de Sequencia e Modelo C4                               |
+| IV. Prototipagem e Refinamento |                   |                                                                                       |
+| V. Encerramento                |                   |                                                                                       |
 
 ## 3.5 Controle de Mudanças
 O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:
