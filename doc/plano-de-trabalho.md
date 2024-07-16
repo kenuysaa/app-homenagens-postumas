@@ -1,6 +1,6 @@
 # PLANO DE TRABALHO
 
-| Nome do Projeto:       | Aplicativo de Homenagens Póstumas |
+| Nome do Projeto:       | Memórias Póstumas |
 | ---------------------- | --------------------------------- |
 | Versão:                | 1.5                               |
 | Status:                | Projeto e Arquitetura             |
