@@ -44,8 +44,7 @@
 - O sistema deve permitir que os usuários pesquisem pelo nome do memorial (nome do falecido), além de palavras-chave relacionadas a fotos, vídeos e textos de homenagens.
 
 # Memorial
-![image](https://github.com/user-attachments/assets/2d92dbbe-7abf-46ec-ba3f-11691c1a3a7b)
-![image](https://github.com/user-attachments/assets/560a9777-18c1-44ad-a3e4-76dc0a1d2fae)
+![image](https://github.com/user-attachments/assets/0fc87d0f-ca81-4d71-9aed-edf9c93e4127)
 ### Historias do usuário relacionadas: 
 #### H1. Como familiar, eu quero uma página virtual, para compartilhar memórias póstumas entre familiares e amigos.
 - A criação de um memorial poderá ser feita por qualquer usuario que possa comprovar a morte do homenageado através de uma documentação de óbito. O usuario se tornará responsavel pelo memorial automaticamente.
@@ -65,20 +64,46 @@
 - Deve haver um botão para os usuários solicitarem a participação, com a mensagem "Enviar solicitação".
 
 ![image](https://github.com/user-attachments/assets/fd7bc560-6de7-4355-bf13-f4ab36b997ed)
-![image](https://github.com/user-attachments/assets/2afcb6dc-04c6-481e-b830-3e3f49a89a52)
+![image](https://github.com/user-attachments/assets/280190db-1249-4a6e-bd8d-bfb9084029b5)
 
-## Editar privacidade do memorial
-![image](https://github.com/user-attachments/assets/863a908c-488e-457a-a18b-effd7e603405)
 
-## Responsavel-funções-publicação
-![image](https://github.com/user-attachments/assets/9494eebd-35ce-4003-88b6-ed900cd9247c)
 
-### Editar
+# Editar privacidade do memorial
+![image](https://github.com/user-attachments/assets/7a68896b-6f2b-4287-bea5-c3bb3de98ab7)
+### Histórias relacionadas
+#### H6. Como familiar, eu quero ter controle sobre quem pode postar no memorial, para garantir que apenas pessoas autorizadas possam fazer novas postagens.
+- Nas opções de controle o responsavel pelo memorial poderá poderá selecionar entre diferentes opções de permissão, como "Apenas Responsaveis", "Familiares e Amigos Selecionados" ou "Todos".
+- Na função "Apenas Responsaveis": apenas os responsáveis terão a permissão de fazer novas postagens.
+- Na função "Familiares e Amigos Selecionados": apenas usuarios selecionados pelo responsável terá permissão de fazer novas postagens.
+- Na função "Todos": refere-se a todos os membros que foram adicionados ou estão associados ao memorial pelo responsável.
+
+# Responsavel-funções-publicação
+![image](https://github.com/user-attachments/assets/2d663928-22e2-4ad4-8c1e-f2f4b1585bc9)
+### Historias relacionadas:
+#### H4. Como amigo da falecida, eu quero publicar mensagens, fotos e vídeos, para compartilhar essas lembranças com seus familiares.
+- A função "membros do memorial": Todas as pessoas que seguem o memorial poderão visualizar a publicação;
+- A função "Compartilhar somente com": A publicação será compartilhada somente com os usuários selecionados.
+
+## Editar
 ![image](https://github.com/user-attachments/assets/9717c6ab-4c7e-4f48-8261-74097d8fe848)
+### Historias relacionadas:
+#### H12. Como familiar, eu quero editar as informações em publicações do memorial, para que eu possa manter a memoria atualizada.
+- O usuário poderá editar as publicações, alterando o texto, imagem ou video da mesma.
+- As atualizações feitas pelo usuário devem ser visíveis nas publicações a todos que têm acesso ao memorial.
 
-### Arquivar
+## Arquivar
 ![image](https://github.com/user-attachments/assets/03c5016b-dabf-4e0b-af92-da7e68e25928)
 ![image](https://github.com/user-attachments/assets/70460122-ca5b-4eba-9892-4fac06166d8c)
+### Historias relacionadas:
+#### H9. Como responsável (familiar) do memorial, eu quero arquivar postagens, para que eu possa ocultar lembranças indesejadas.
+- Os usuários devem ser capazes de selecionar postagens específicas para arquivar.
+- O sistema deve permitir o arquivamento de múltiplas postagens de uma vez.
+- O sistema deve incluir uma opção que permita aos usuários restaurar postagens arquivadas para o memorial principal. Quando essa opção é selecionada, a restauração das postagens arquivadas ocorre automaticamente.
 
 # Sessões
 ![image](https://github.com/user-attachments/assets/c493b85d-1a9e-49e9-84ae-22a36633dcf8)
+### Historias relacionadas:
+#### H8. Como familiar, eu quero uma area para organizar publicações em sessão e destaca-las, para que eu possa juntar publicações da vida do falecido.
+- As publicações serão organizadas em areas chamadas "Sessões de memorias". Ela estará disponivel na barra de navegação da pagina do memorial.
+- As sessões poderá ser adicionada por qualquer usuario que faça publicação no memorial.
+- As sessões serão definidas por "Nome da Sessão", "Periodo do momento", "Descrição" e "Adicionar publicações".
