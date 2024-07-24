@@ -2,8 +2,8 @@
 
 | Nome do Projeto:       | Memórias Póstumas |
 | ---------------------- | --------------------------------- |
-| Versão:                | 1.5                               |
-| Status:                | Projeto e Arquitetura             |
+| Versão:                | 2.0                              |
+| Status:                | Prototipação             |
 | Executor Principal:    | Guilherme Kenuy Saavedra Nunes    |
 | Coordenador Principal: | Andrey Rodrigues                  |
 
@@ -15,6 +15,7 @@
 | 1.0    | Elaboração do Plano de Trabalho        | Guilherme Kenuy Saavedra Nunes | 10/06/2024 |
 | 1.2    | Melhorias e Mudanças de Funcionalidade | Guilherme Kenuy Saavedra Nunes | 13/07/2024 |
 | 1.5    | Arquitetura do Sistema                 | Guilherme Kenuy Saavedra Nunes | 16/07/2024 |
+|2.0|Prototipação|Guilherme Kenuy Saavedra Nune|24/07/2024|
 
 ---
 
@@ -49,7 +50,7 @@ Desenvolvimento de uma rede social que conecte familiares e amigos de uma pessoa
 Desenvolver uma rede social de homenagens póstumas dedicada a preservar e compartilhar memórias de entes queridos falecidos. Oferecendo ao usuários a funcionalidade de herdar seu perfil a usuários responsáveis para torna-lo um memorial após sua morte. Enfim, oferecendo um ambiente onde amigos e familiares possam se reunir virtualmente para prestar homenagens, compartilhar histórias, fotos, vídeos e recordar os momentos especiais vividos com a pessoa falecida.
 
 ## 2.2 Escopo geral
-O aplicativo contará com publicações principalmente entre usuários na página do memorial para compartilhar textos, fotos e vídeos em homenagem ao falecido. O sistema terá uma visualização de publicações em mural, uma maneira de interagir com os momentos mais marcantes da vida da pessoa querida de maneira dinâmica. Controle total sobre quem pode acessar e interagir com o conteúdo, assegurando um ambiente seguro e respeitoso.
+O aplicativo contará com publicações principalmente entre usuários na página do memorial para compartilhar textos, fotos e vídeos em homenagem ao falecido. O sistema terá uma visualização de publicações em sessões, uma maneira de interagir com os momentos mais marcantes da vida da pessoa querida de maneira dinâmica. Controle total sobre quem pode acessar e interagir com o conteúdo, assegurando um ambiente seguro e respeitoso.
 
 ### 2.2.1 Escopo Específico
 - Criação de Perfil individual.
@@ -59,7 +60,7 @@ O aplicativo contará com publicações principalmente entre usuários na págin
 - Implementar ferramentas robustas de controle de privacidade, permitindo que os usuários determinem quem pode visualizar e interagir com o conteúdo compartilhado.
 - Permitir que os usuários organizem e destaquem publicações em Sessões de lembranças.
 - Integração de ferramentas de edição para publicações.
-- Implementação de um layout que permita fácil navegação na Pagina do memorial: Linha de Postagens, Mural Virtual e Sessões.
+- Implementação de um layout que permita fácil navegação na Pagina do memorial: Linha de Postagens e Sessões.
 
 ### 2.2.2 Escopo Negativo
 - O aplicativo não terá financiamento através de anúncios.
@@ -77,7 +78,6 @@ O aplicativo contará com publicações principalmente entre usuários na págin
 
 ## 2.4 Características Inovadoras do Projeto
 - O aplicativo permite tornar perfis individuais e suas publicações em paginas de memorial com responsáveis escolhidos pelo mesmo antes de falecer.  
-- Visualização como um mural de publicações. 
 - Republicação de momentos a partir da data especificada ou data de postagem.  
 
 ## 2.5 Resultados Esperados
